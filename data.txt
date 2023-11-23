@@ -1,47 +1,46 @@
 [
   {
     "title": "titulo 1",
-    "descripcion": "descripción 1",
+    "description": "descriptión 1",
     "price": "precio 1",
     "thumbnail": "thumbnail 1",
     "code": "codigo 1",
     "stock": "stock 1",
+    "category": "category 1",
+    "status": "True",
     "id": 1
   },
   {
     "title": "titulo 2",
-    "descripcion": "descripción 2",
+    "description": "descriptión 2",
     "price": "precio 2",
     "thumbnail": "thumbnail 2",
     "code": "codigo 2",
     "stock": "stock 2",
+    "category": "category 2",
+    "status": "True",
     "id": 2
   },
   {
-    "title": "titulo 3",
-    "descripcion": "descripción 3",
-    "price": "precio 3",
-    "thumbnail": "thumbnail 3",
-    "code": "codigo 3",
-    "stock": "stock 3",
-    "id": 3
-  },
-  {
     "title": "titulo 4",
-    "descripcion": "descripción 4",
+    "description": "descriptión 4",
     "price": "precio 4",
     "thumbnail": "thumbnail 4",
     "code": "codigo 4",
     "stock": "stock 4",
+    "category": "category 4",
+    "status": "True",
     "id": 4
   },
   {
-    "title": "titulo 5",
-    "descripcion": "descripción 5",
-    "price": "precio 5",
-    "thumbnail": "thumbnail 5",
-    "code": "codigo 5",
-    "stock": "stock 5",
-    "id": 5
+    "title": "titulo Cambio",
+    "description": "descriptión Cambio",
+    "price": "precio Cambio",
+    "thumbnail": "thumbnail Cambio",
+    "code": "codigo 6",
+    "stock": "stock 6",
+    "category": "category 6",
+    "status": "True",
+    "id": 6
   }
 ]

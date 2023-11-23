@@ -1,10 +1,10 @@
 {
-  "name": "desafio-3-boris-choque",
+  "name": "desafio-4-boris-choque",
   "version": "1.0.0",
   "main": "funcAux.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "nodemon ./scr/server.js"
   },
   "keywords": [],
   "author": "",

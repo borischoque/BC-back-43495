@@ -1,0 +1,37 @@
+[
+  {
+    "idCarrito": 1,
+    "products": [
+      {
+        "idProducto": 4,
+        "quantity": 2
+      },
+      {
+        "idProducto": 2,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "idCarrito": 2,
+    "products": [
+      {
+        "idProducto": 2,
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "idCarrito": 3,
+    "products": []
+  },
+  {
+    "idCarrito": 4,
+    "products": [
+      {
+        "idProducto": 6,
+        "quantity": 2
+      }
+    ]
+  }
+]

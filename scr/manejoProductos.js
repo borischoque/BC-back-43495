@@ -38,15 +38,15 @@ class ProductManager {
         console.log('Ingreso a ----> Metodo AGREGAR un producto');
 
         /* Validación por campo vacio */
-        if (!item.title || !item.description || !item.price || !item.thumbnail || !item.code || !item.stock) {
-            return `Debe completar todos los campos `
+        if (!item.title || !item.description || !item.price || !item.status || !item.code || !item.stock || !item.category) {
+            return false
         }
 
         /* Validación por campo "code" */
         const validation1 = this.listaProductos.some(producto => producto.code === item.code)
 
         if (validation1) {
-            return 'El producto ya esta en la lista';
+            return false
         }
 
         /* Ingreso de producto */
